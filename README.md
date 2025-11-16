@@ -65,6 +65,6 @@ The application uses a clean and attractive interface, automatically loads new q
 ---
 
 <div align="center">
-© 2024 Dnyanesh Badave | Milk Products Management System
+© 2024 Dnyanesh Badave | Quiz App
 </div>
 
